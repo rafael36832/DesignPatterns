@@ -1,5 +1,4 @@
 import { Car } from "./vehicles/Car";
-import { Bicycle } from "./vehicles/Bicycle";
 import { CarFactory } from "./factories/CarFactory";
 import { BicycleFactory } from "./factories/BicycleFactory";
 
